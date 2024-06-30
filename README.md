@@ -1,0 +1,1 @@
+This Python project uses OpenCV, Mediapipe, and Autopy to create a hand gesture recognition system for controlling the mouse. It tracks hand landmarks to detect index and middle finger positions, enabling cursor movement and click actions based on finger gestures. The code includes smoothened cursor movements and real-time hand tracking display.
